@@ -4,4 +4,4 @@ One of the commits needed a special message
 We needed to add various files in this repository as well.
 We were required to make a HTML file that has a tag in it as well as some my studentID and name
 We needed to deploy this HTML file in GitHub pages
-We will also need to bundle the files
+We will also need to bundle the files using the git hub code
